@@ -25,7 +25,7 @@ export default function Footer() {
             <h3 className="text-lg font-semibold">Follow</h3>
             <p className="mt-2 text-sm text-gray-300">Find property highlights and updates on our channels</p>
 
-            <div className="mt-4 flex items-center space-x-3">
+            {/* <div className="mt-4 flex items-center space-x-3">
               <a href="https://www.instagram.com/eventus_estates/" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="p-2 rounded-full bg-white/5 hover:bg-white/10">
                 <i className="fa-brands fa-instagram text-xl" aria-hidden="true"></i>
               </a>
@@ -37,7 +37,7 @@ export default function Footer() {
               <a href="https://www.tiktok.com/@eventusestates" target="_blank" rel="noopener noreferrer" aria-label="TikTok" className="p-2 rounded-full bg-white/5 hover:bg-white/10">
                 <i className="fa-brands fa-tiktok text-xl" aria-hidden="true"></i>
               </a>
-            </div>
+            </div> */}
           </div>
 
           <div className="text-sm text-gray-300">
