@@ -1,0 +1,5 @@
+Change names Pricing will be listings
+Features will be about
+Remove this file from gitignore
+Contact us does not exist yet, find in navbar.jsx and configure inn app.jsx
+Line 53 Hero section, change or delete get in touch button
